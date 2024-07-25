@@ -1,2 +1,2 @@
-# llm_notebook_playground
-LLM Notebooks
+# notebook_playground
+Notebooks
